@@ -20,7 +20,7 @@ class Plink{
 
         fill(255);
         ellipseMode(RADIUS);
-        circle(0, 0, this.r);
+        circle(0, 0, this.r, this.r);
         pop();
         }
 }
